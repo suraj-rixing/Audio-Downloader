@@ -5,4 +5,4 @@ Be vary that you have "pytube" package downloaded. To download "pytube", follow 
 Make sure you provide the right path when it asks you for it.
 Let me know if you face any error and I will try to fix it.
 
-NOTE: I have only tested this for youtube links and feel free to use this code.
+NOTE: I have only tested this for youtube links, feel free to use this code and review a better version for it.
