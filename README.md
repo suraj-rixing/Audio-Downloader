@@ -1,6 +1,6 @@
 # Audio-Downloader
 
-I made this project mainly because I don't want to pay for 3rd party tools and I wanted to listen to Elon Musk interviews, speechs and etc... when I am out or offline.
+I made this project mainly because I did't want to pay for 3rd party tools and I wanted to listen to Elon Musk interviews, speechs and etc... when I am out or offline.
 
 Make sure you have Python 12 from Microsoft Store.
 I am not sure if this would work on other versions of Python.
